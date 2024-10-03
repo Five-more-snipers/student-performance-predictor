@@ -36,8 +36,8 @@ For this project, we use a Convolutional Neural Network (CNN) model to classify 
 The input data is reshaped to fit the CNN requirements. The model also utilizzes the early stopping method to recognize signs of Potential Overfitting within the model and prevent such actions by stopping the model training.
 
 # Result
-![no image](img/output.jpg).
-![no image](img/frontend.jpg).
+![no image](img/output.png).
+![no image](img/frontend.png).
 ### How to use this Project
 Buat sendiri python env sendiri terlebih dahulu.
 ```
